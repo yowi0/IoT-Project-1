@@ -1,3 +1,5 @@
+// Daniel Oller, Roger Comas
+
 // Definim les constants corresponents als GPIOs on tenim connectats els LEDs.
 #define LED_VERMELL 13
 #define LED_GROC 12
