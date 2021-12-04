@@ -1,5 +1,3 @@
-//Daniel Oller, Roger Comas
-
 #define P_LED_VERMELL 13
 #define P_LED_GROC 12
 #define P_LED_VERD 14
