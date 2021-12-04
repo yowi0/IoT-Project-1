@@ -1,5 +1,3 @@
-//Daniel Oller / Roger Comas
-
 #include "Freenove_WS2812_Lib_for_ESP32.h"
 #define QUANTS_LEDS 144 // Constant que indica quants LEDs té la tira.
 #define PIN_TIRA_LEDS 15 // Constant que indica el GPIO on tenim la tira.
